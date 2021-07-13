@@ -13,13 +13,8 @@ cara menjalankanya di termux:
 
 cara menjalnkanya di kali Linux:
 
-1. sudo apt-get update
-2. sudo apt-get upgrade
-3. sudo apt-get install python 
-4. sudo apt-get install py
-5. sudo apt-get install git
-6. git clone https://github.com/muslimcyber1234/Virus-Trojans.git
-7. cd Virus-Trojans
-8. ls
-9. python Virus-Trojans.py
+1. git clone https://github.com/muslimcyber1234/Virus-Trojans.git
+2. cd Virus-Trojans
+3. ls
+4. python Virus-Trojans.py
 
